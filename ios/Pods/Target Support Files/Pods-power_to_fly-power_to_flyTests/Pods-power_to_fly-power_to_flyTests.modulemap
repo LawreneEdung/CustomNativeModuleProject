@@ -1,0 +1,6 @@
+module Pods_power_to_fly_power_to_flyTests {
+  umbrella header "Pods-power_to_fly-power_to_flyTests-umbrella.h"
+
+  export *
+  module * { export * }
+}
